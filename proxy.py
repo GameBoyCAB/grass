@@ -4,7 +4,6 @@ from proxy_config import REMOTE_HOST
 from proxy_config import REMOTE_PORT
 
 class MlgmXyysd_Genshin_Impact_Proxy:
-
     LIST_DOMAINS = [
         "api-os-takumi.mihoyo.com",
         "hk4e-api-os-static.mihoyo.com",
